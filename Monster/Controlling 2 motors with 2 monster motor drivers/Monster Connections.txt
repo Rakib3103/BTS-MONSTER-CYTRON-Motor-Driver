@@ -1,0 +1,21 @@
+
+For Motor-1 and Monster-1
+VCC_1--5V
+INA--D7
+PWM--D5
+CS--A2
+INB--D8
+OUTA_1--Motor port-A
+OUTB_3--Motor port-B
+EN PIN--A0
+
+For Motor-2 and Monster-2
+VCC--Shortcircuit--5V
+OUTA_1--Motor port-A
+GND_B--GND ARDUINO
+OUTB_3--Motor port-B
+INA--D6
+PWM--D4
+CS--A3
+INB--D9
+EN PIN -- A2
